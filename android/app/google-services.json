@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "896378913982",
+    "project_id": "blood365-216e0",
+    "storage_bucket": "blood365-216e0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:896378913982:android:78a725628b4266b6a00aef",
+        "android_client_info": {
+          "package_name": "com.example.blood365"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "896378913982-1sqjl6fmc4nhl12pncr9a0v94mit18qq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeTFT7EkoABsqTGJfxcQVimG8XIHUIysw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "896378913982-1sqjl6fmc4nhl12pncr9a0v94mit18qq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
